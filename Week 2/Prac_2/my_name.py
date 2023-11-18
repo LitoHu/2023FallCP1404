@@ -1,3 +1,1 @@
-*
-    Hu Shiqi
-*
+"""HuShiqi"""
